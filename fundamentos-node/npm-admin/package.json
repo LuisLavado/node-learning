@@ -1,5 +1,5 @@
 {
-  "name": "isnumber",
+  "name": "npm-admin",
   "version": "1.0.0",
   "description": "test package managment with npm",
   "main": "main.js",

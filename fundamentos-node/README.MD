@@ -10,8 +10,8 @@
 ### Módulos y gestión de paquetes
 4. [Tipos de Módulos en NodeJS: CommonJS y ESModules](/fundamentos-node/topics/4-types-modules.md)
 5. [Gestión de Paquetes con NPM: Instalación y Uso Básico](/fundamentos-node/topics/5-package-management-with-npm.md)
-6. Creación y Publicación de Paquetes NPM para Manejo de Fechas
-7. Publicación de Paquetes en NPM y GitHub: Paso a Paso
+6. [Creación y Publicación de Paquetes NPM para Manejo de Fechas](/fundamentos-node/topics/6-creating-and-publishing-npm-packages.md)
+7. [Publicación de Paquetes en NPM y GitHub: Paso a Paso](/fundamentos-node/topics/7-publishing-packages-on-npm-and-gitHub.md)
 
 ### Módulos nativos en Node.js
 8. Manipulación de Archivos con Node.js y Módulo FS
@@ -31,3 +31,4 @@
 20. Servidor de Video en Node.js: Streams y Buffers
 
 ### Proyectos del curso
+[Mi paquete NPM de Fechas](enlace.com)
