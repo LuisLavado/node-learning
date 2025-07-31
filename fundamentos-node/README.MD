@@ -15,8 +15,8 @@
 
 ### Módulos nativos en Node.js
 8. [Manipulación de Archivos con Node.js y Módulo FS](/fundamentos-node/topics/8-file-manipulation-with-fs-module.md)
-9. Script para Transcripción de Audio con OpenAI Whisper y Node.js
-10. Transcripción de Audio con OpenAI: Implementación en Node.js
+9. [Script para Transcripción de Audio con OpenAI Whisper y Node.js](/fundamentos-node/topics/9-audio-transcription-open-ia.md)
+10. [Transcripción de Audio con OpenAI: Implementación en Node.js](/fundamentos-node/topics/10-audio-transcription-open-ia-2.md)
 11. Métodos de Console en Node.js: Uso y Aplicaciones Prácticas
 12. Uso avanzado de la consola en JavaScript: count, group, assert y más
 13. Acceso y uso del módulo OS en Node.js para monitoreo del sistema
