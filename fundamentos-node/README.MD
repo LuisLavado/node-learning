@@ -14,7 +14,7 @@
 7. [Publicación de Paquetes en NPM y GitHub: Paso a Paso](/fundamentos-node/topics/7-publishing-packages-on-npm-and-gitHub.md)
 
 ### Módulos nativos en Node.js
-8. Manipulación de Archivos con Node.js y Módulo FS
+8. [Manipulación de Archivos con Node.js y Módulo FS](/fundamentos-node/topics/8-file-manipulation-with-fs-module.md)
 9. Script para Transcripción de Audio con OpenAI Whisper y Node.js
 10. Transcripción de Audio con OpenAI: Implementación en Node.js
 11. Métodos de Console en Node.js: Uso y Aplicaciones Prácticas
