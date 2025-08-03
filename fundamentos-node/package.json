@@ -1,7 +1,7 @@
 {
   "name": "fundamentos-node",
   "version": "1.0.0",
-  "description": "1. [Instalación de Node.js en tu computadora](/fundamentos-node/topics/1-introduction.md)\r 2. [Gestión de Múltiples Versiones de Node.js con NVM](/fundamentos-node/topics/2-installation.md)\r 3. [Primer Programa en Node.js: Generador de Números Aleatorios](/fundamentos-node/topics/3-first-program.md)",
+  "description": "Curso de Fundamentos de Node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
