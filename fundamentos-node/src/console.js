@@ -33,3 +33,36 @@ for (let i = 0; i < 1000000; i++) {
 
 // Finalizar el temporizador y mostrar el resultado
 console.timeEnd("operación");
+
+// Clear
+console.clear();
+
+// Count
+console.count('contador');
+console.count('contador');
+console.count('contador');
+console.count('contador');
+console.countReset('contador');
+console.count('contador');
+
+//
+console.group('Grupo principal');
+console.log('Información uno');
+console.group('Subgrupo de información');
+console.log('Información subgrupo uno');
+console.group('Otro nivel');
+console.log('Información subgrupo dos');
+console.groupEnd();
+console.groupEnd();
+console.log('Final del grupo');
+console.groupEnd();
+
+// 
+console.assert(1 === 1, "Esto no se muestra");
+console.assert(1 === 2, "Esto sí se mostrará");
+
+// console.clear();
+console.clear();
+
+//
+console.trace("Mostrar la pila de llamadas actual");
