@@ -22,9 +22,9 @@
 13. [Acceso y uso del módulo OS en Node.js para monitoreo del sistema](/fundamentos-node/topics/13-use-of-the-OS-module.md)
 14. [Uso del Módulo Cripto de Node.js para Seguridad en Aplicaciones](/fundamentos-node/topics/14-using-the-crypto-module.md)
 15. [Control de Procesos y Variables de Entorno en NouGS](/fundamentos-node/topics/15-process.md)
-16. [Manejo de Timers y Funciones Temporales en Node.js](/fundamentos-node/topics/16-class.md)
-17. [Procesamiento de Streams de Archivos Grandes en Node.js](/fundamentos-node/topics/17-class.md)
-18. [Manipulación de Buffers en Node.js para Datos Binarios](/fundamentos-node/topics/18-class.md)
+16. [Manejo de Timers y Funciones Temporales en Node.js](/fundamentos-node/topics/16-timers.md)
+17. [Procesamiento de Streams de Archivos Grandes en Node.js](/fundamentos-node/topics/17-streams.md)
+18. [Manipulación de Buffers en Node.js para Datos Binarios](/fundamentos-node/topics/18-buffers.md)
 
 ### Servidores con Node.js
 19. Creación de un Servidor HTTP con NodeJS y Flagwatch
