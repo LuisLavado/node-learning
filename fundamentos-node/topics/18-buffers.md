@@ -16,7 +16,7 @@ Los buffers en Node.js son estructuras de datos que permiten trabajar con inform
 
 Para empezar a trabajar con buffers, aunque no es estrictamente necesario importarlos (ya que son globales en Node.js), podemos hacerlo para mantener un código más organizado:
 ```
-const buffer = require('buffer');
+const { Buffer } = require('buffer');
 ```
 
 ### ¿Cómo crear un buffer a partir de una cadena de texto?
@@ -36,7 +36,7 @@ Al ejecutar este código, veremos la representación binaria de nuestra cadena d
 En ocasiones, necesitamos trabajar con buffers de un tamaño predeterminado, especialmente cuando sabemos exactamente cuántos bytes vamos a necesitar.
 
 ## Creación de un buffer con tamaño fijo
-Para crear un buffer vacío con un tamaño específico, utilizamos el método Buffer.alloc():
+Para crear un buffer vacío con un tamaño específico, utilizamos el método `Buffer.alloc()`:
 ```
 const bufferAlloc = Buffer.alloc(10);
 console.log(bufferAlloc);
@@ -44,7 +44,7 @@ console.log(bufferAlloc);
 Este código crea un buffer de 10 bytes, inicialmente vacío. Al ejecutarlo, veremos una secuencia de ceros, indicando que el buffer está reservado pero sin datos significativos.
 
 ### Escritura de datos en un buffer
-Una vez que tenemos nuestro buffer, podemos escribir datos en él utilizando el método write():
+Una vez que tenemos nuestro buffer, podemos escribir datos en él utilizando el método `write()`:
 ```
 bufferAlloc.write('node.js');
 console.log(bufferAlloc);
