@@ -1,4 +1,4 @@
-const dateFormatter = require('luigi-date');
+const dateFormatter = require('luigidate');
 
 // Obtener timestamp actual
 console.log(dateFormatter.getTimeStamp());

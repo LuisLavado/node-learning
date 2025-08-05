@@ -14,21 +14,21 @@
 7. [Publicación de Paquetes en NPM y GitHub: Paso a Paso](/fundamentos-node/topics/7-publishing-packages-on-npm-and-gitHub.md)
 
 ### Módulos nativos en Node.js
-8. Manipulación de Archivos con Node.js y Módulo FS
-9. Script para Transcripción de Audio con OpenAI Whisper y Node.js
-10. Transcripción de Audio con OpenAI: Implementación en Node.js
-11. Métodos de Console en Node.js: Uso y Aplicaciones Prácticas
-12. Uso avanzado de la consola en JavaScript: count, group, assert y más
-13. Acceso y uso del módulo OS en Node.js para monitoreo del sistema
-14. Uso del Módulo Cripto de Node.js para Seguridad en Aplicaciones
-15. Control de Procesos y Variables de Entorno en NouGS
-16. Manejo de Timers y Funciones Temporales en Node.js
-17. Procesamiento de Streams de Archivos Grandes en Node.js
-18. Manipulación de Buffers en Node.js para Datos Binarios
+8. [Manipulación de Archivos con Node.js y Módulo FS](/fundamentos-node/topics/8-file-manipulation-with-fs-module.md)
+9. [Script para Transcripción de Audio con OpenAI Whisper y Node.js](/fundamentos-node/topics/9-audio-transcription-open-ia.md)
+10. [Transcripción de Audio con OpenAI: Implementación en Node.js](/fundamentos-node/topics/10-audio-transcription-open-ia-2.md)
+11. [Métodos de Console en Node.js: Uso y Aplicaciones Prácticas](/fundamentos-node/topics/11-console-methods.md)
+12. [Uso avanzado de la consola en JavaScript: count, group, assert y más](/fundamentos-node/topics/12-advanced-console-usage.md)
+13. [Acceso y uso del módulo OS en Node.js para monitoreo del sistema](/fundamentos-node/topics/13-use-of-the-OS-module.md)
+14. [Uso del Módulo Cripto de Node.js para Seguridad en Aplicaciones](/fundamentos-node/topics/14-using-the-crypto-module.md)
+15. [Control de Procesos y Variables de Entorno en NouGS](/fundamentos-node/topics/15-process.md)
+16. [Manejo de Timers y Funciones Temporales en Node.js](/fundamentos-node/topics/16-timers.md)
+17. [Procesamiento de Streams de Archivos Grandes en Node.js](/fundamentos-node/topics/17-streams.md)
+18. [Manipulación de Buffers en Node.js para Datos Binarios](/fundamentos-node/topics/18-buffers.md)
 
 ### Servidores con Node.js
-19. Creación de un Servidor HTTP con NodeJS y Flagwatch
-20. Servidor de Video en Node.js: Streams y Buffers
+19. [Creación de un Servidor HTTP con NodeJS y Flagwatch](/fundamentos-node/topics/19-server.md)
+20. [Servidor de Video en Node.js: Streams y Buffers](/fundamentos-node/topics/20-server-video.md)
 
 ### Proyectos del curso
-[Mi paquete NPM de Fechas](enlace.com)
+[Paquete NPM publicado](https://github.com/LuisLavado/luigidate)

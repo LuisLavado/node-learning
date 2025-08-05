@@ -1,4 +1,4 @@
-**Curso de Fundamentos de Node.js**
+**[Curso de Fundamentos de Node.js](./../README.MD)**
 # Primer Programa en Node.js: Generador de Números Aleatorios
 
 ### Resumen

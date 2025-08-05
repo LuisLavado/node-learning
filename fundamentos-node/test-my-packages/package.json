@@ -1,0 +1,15 @@
+{
+  "name": "test-my-packages",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "luigidate": "^1.0.0"
+  }
+}
