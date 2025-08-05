@@ -1,8 +1,0 @@
-
-Para Desarrollo:
-https://nodemon.io/
-npm install -g nodemon
-
-Para Produccion:
-https://pm2.keymetrics.io/
-npm install pm2 -g
