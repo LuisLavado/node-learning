@@ -27,7 +27,7 @@
 18. [Manipulación de Buffers en Node.js para Datos Binarios](/fundamentos-node/topics/18-buffers.md)
 
 ### Servidores con Node.js
-19. Creación de un Servidor HTTP con NodeJS y Flagwatch
+19. [Creación de un Servidor HTTP con NodeJS y Flagwatch](/fundamentos-node/topics/19-server.md)
 20. Servidor de Video en Node.js: Streams y Buffers
 
 ### Proyectos del curso
