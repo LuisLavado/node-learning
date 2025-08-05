@@ -28,7 +28,7 @@
 
 ### Servidores con Node.js
 19. [Creación de un Servidor HTTP con NodeJS y Flagwatch](/fundamentos-node/topics/19-server.md)
-20. Servidor de Video en Node.js: Streams y Buffers
+20. [Servidor de Video en Node.js: Streams y Buffers](/fundamentos-node/topics/20-server-video.md)
 
 ### Proyectos del curso
-[Mi paquete NPM de Fechas](enlace.com)
+[Paquete NPM publicado](https://github.com/LuisLavado/luigidate)
